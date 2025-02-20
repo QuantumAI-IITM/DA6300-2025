@@ -12,7 +12,7 @@
 | Quantum kNN: A Fidelity-Based Quantum Machine Learning Approach | QML | J Nikhilesh  |
 | Efficient Parameter Optimisation for Quantum Kernel Alignment using a Sub Sampling Approach for Kernels (Sub Sampling Approach in kernel Alignment) | QML | Param Jivrajani, Gokul R|
 | Dataset Generators functions | QML - open source | Shailesh KVR, Nishant Vasan, Rishi Nandha V |
-| QkNN implementation across different libraries and evaluate applications | QML | |
+| QkNN implementation across different libraries and evaluate applications | QML | Arjav Singh, Sumeet Deshmukh, Shri Prathaa M |
 | Quantum Tangent Kernel | QML | MD Karimulla Haque, Adhil Ahmed P M Shums |
 | Quantum Circuit Optimization using AlphaTensor (a Deep Reinforcement Learning Techniques Exploiting Relationship between Optimizing T-Gate Count and Tensor Decomposition) | AI for Quantum | Krishanu Bandyopadhyay, Priya Saregta, Jayaharish R |
 | Quantum machine learning beyond kernel methods | QML | Abhiprada Bera, Tathagata Nandi, Suresh |
